@@ -1,5 +1,5 @@
 {
-  "name": "com.metrological.app.vod-example",
+  "name": "lightningjs-movie",
   "description": "VOD Example",
   "dependencies": {
     "@lightningjs/sdk": "^4.7.0",
